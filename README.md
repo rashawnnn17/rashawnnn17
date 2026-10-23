@@ -1,33 +1,20 @@
-# 👋 Welcome to my page!
+# Hi, I'm Rashawn
 
-Hey there 👋🏾 — I’m Rashawn, a product security analyst passionate about protecting modern applications and cloud-native infrastructure. My journey started in Vulnerabiity Management and Security operations which eventually shifted towards Container/Kubernetes security. I’m now focused on securing products from the ground up — across code, CI/CD pipelines, and cloud platforms.
+I'm a product security analyst with a background in vulnerability management, security operations, and container/Kubernetes security. My focus is cloud security engineering and DevSecOps, primarily in Google Cloud.
 
-## 🔒 Current Focus
+## Featured project
 
-🧩 Building expertise in application & product security
+### [GCP Cloud Security Engineering](https://github.com/rashawnnn17/cloud-security-engineering)
 
-☁️ Advancing my skills in cloud security primarily in GCP
+My main hands-on project, focused on building and securing a GCP sandbox. Follow the repository for implementations, design decisions, and verified results as the project develops.
 
-🧱 Strengthening DevSecOps practices by integrating security into CI/CD pipelines and IaC
+The project is in its initial setup stage, with the first Terraform implementation in development.
 
-🧑🏾‍💻 Building security automation skills using Python 
+## Background and interests
 
+- Cloud and container security.
+- Infrastructure as code with Terraform.
+- Secure delivery through CI/CD.
+- Security automation with Python and Bash.
 
-## ⚙️ Tools & Technologies
-
-- **Security Tools**: Wiz, Prisma Cloud, Google SIEM/SOAR, Elastic,
-- **Cloud Platforms**: GCP, AWS, Azure
-- **IaC & Containerization**: Docker, Kubernetes, Terraform
-- **CI/CD Pipelines**: Gitlab, Github Actions 
-- **Automation & Scripting**: Bash, Python  
-
-
-
-## 🛠️ Projects Coming Soon
-
-
-
-
----
-
-> *“The goal is to be 1% better than who you were yesterday.”*
+My experience and exposure include Wiz, Prisma Cloud, Google SIEM/SOAR, Elastic, GCP, AWS, Azure, Docker, and Kubernetes.
